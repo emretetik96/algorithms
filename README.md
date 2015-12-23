@@ -1,1 +1,2 @@
-# algorithms
+# algorithm
+Implementations of miscellaneous algorithms
